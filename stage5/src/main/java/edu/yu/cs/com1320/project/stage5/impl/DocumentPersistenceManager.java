@@ -49,7 +49,6 @@ public class DocumentPersistenceManager implements PersistenceManager<URI, Docum
                 e.printStackTrace();
             }
 
-            //now set the wordMap
             String[] words = this.convertToStringArray(wordsList);
             int[] wordCounts = this.convertToIntArray(countsList);
             Map<String, Integer> wordMap = new HashMap<>();
@@ -68,7 +67,7 @@ public class DocumentPersistenceManager implements PersistenceManager<URI, Docum
                     numberOfWords++;
                 }
             }
-            //increment numberOfWords one more time to account for the last word
+
             numberOfWords++;
 
             String[] words = new String[numberOfWords];
@@ -109,7 +108,6 @@ public class DocumentPersistenceManager implements PersistenceManager<URI, Docum
                     numberString.append(aChar);
                 }
             }
-            //have to account for the last number
             wordCounts[numberOfCountsAdded++] = Integer.parseInt(numberString.toString());
             return wordCounts;
         }
@@ -121,11 +119,9 @@ public class DocumentPersistenceManager implements PersistenceManager<URI, Docum
 
 
             JsonObject jsonObject = new JsonObject();
-//            String docTxt = document.getDocumentAsTxt().replaceAll(" ", "`");
             String docTxt = document.getDocumentTxt().trim();
             URI uri = document.getKey();
 
-            //make wordMap serializable
             String[] words = this.getDocWordSet(document);
             int[] wordCounts = this.getWordCounts(document, words);
 
@@ -168,14 +164,14 @@ public class DocumentPersistenceManager implements PersistenceManager<URI, Docum
     }
     @Override
     public void serialize(URI uri, Document val) throws IOException {
-        //add URI to path and save directory structure
+
         String filePath = this.getAuthorityAndPath(uri);
         filePath = generifyUriPathString(filePath);
         filePath = filePath + ".json";
         filePath = this.baseDir.getAbsolutePath() + File.separator + filePath;
-        //filePath is now an absolute path
+
         filePath = this.saveUriDirStructureToSystem(filePath);
-        //create JSON string
+
         Gson gson = new GsonBuilder().registerTypeAdapter(DocumentImpl.class, new DocumentSerializer()).create();
         Type type = new TypeToken<DocumentImpl>(){}.getType();
         String jsonString = gson.toJson(val, type);
@@ -268,7 +264,6 @@ public class DocumentPersistenceManager implements PersistenceManager<URI, Docum
 
         File file = f;
         File[] list = file.listFiles();
-        //noinspection ConstantConditions
         while (list.length == 0) {
             Files.delete(file.toPath());
             file = file.getParentFile();

@@ -1,0 +1,791 @@
+-------------------------------------------------------------------------------
+Test set: edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 0, Errors: 26, Skipped: 0, Time elapsed: 0.096 s <<< FAILURE! - in edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3DeleteAllWithPrefix  Time elapsed: 0.022 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.getStoreWithTextAdded(DocumentStoreImplTest.java:81)
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3DeleteAllWithPrefix(DocumentStoreImplTest.java:359)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3SearchTxtByPrefix  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.getStoreWithTextAdded(DocumentStoreImplTest.java:81)
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3SearchTxtByPrefix(DocumentStoreImplTest.java:349)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutNewVersionOfDocumentBinary  Time elapsed: 0.02 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutNewVersionOfDocumentBinary(DocumentStoreImplTest.java:452)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testUpdateDocLastUseTimeOnSearch  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testUpdateDocLastUseTimeOnSearch(DocumentStoreImplTest.java:286)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage5PushToDiskViaMaxDocCount  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The constructor DocumentStoreImpl(File) is undefined
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage5PushToDiskViaMaxDocCount(DocumentStoreImplTest.java:119)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testUpdateDocLastUseTimeOnSearchByPrefix  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testUpdateDocLastUseTimeOnSearchByPrefix(DocumentStoreImplTest.java:297)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutBinaryDocumentNoPreviousDocAtURI  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutBinaryDocumentNoPreviousDocAtURI(DocumentStoreImplTest.java:424)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetBinaryDocAsBinary  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetBinaryDocAsBinary(DocumentStoreImplTest.java:498)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3DeleteAllTxt  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.getStoreWithTextAdded(DocumentStoreImplTest.java:81)
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3DeleteAllTxt(DocumentStoreImplTest.java:327)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutNewVersionOfDocumentTxt  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutNewVersionOfDocumentTxt(DocumentStoreImplTest.java:469)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3SearchBinaryByPrefix  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.getStoreWithBinaryAdded(DocumentStoreImplTest.java:90)
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3SearchBinaryByPrefix(DocumentStoreImplTest.java:354)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3SearchBinary  Time elapsed: 0 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.getStoreWithBinaryAdded(DocumentStoreImplTest.java:90)
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3SearchBinary(DocumentStoreImplTest.java:319)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testUpdateDocLastUseTimeOnOverwrite  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testUpdateDocLastUseTimeOnOverwrite(DocumentStoreImplTest.java:271)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testDeleteDoc  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testDeleteDoc(DocumentStoreImplTest.java:514)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage5PushToDiskViaMaxDocCountBringBackInViaDeleteAndSearch  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The constructor DocumentStoreImpl(File) is undefined
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage5PushToDiskViaMaxDocCountBringBackInViaDeleteAndSearch(DocumentStoreImplTest.java:160)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testDeleteDocReturnValue  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testDeleteDocReturnValue(DocumentStoreImplTest.java:522)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3DeleteAllBinary  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.getStoreWithBinaryAdded(DocumentStoreImplTest.java:90)
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3DeleteAllBinary(DocumentStoreImplTest.java:338)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage5PushToDiskViaMaxDocCountViaUndoDelete  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The constructor DocumentStoreImpl(File) is undefined
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage5PushToDiskViaMaxDocCountViaUndoDelete(DocumentStoreImplTest.java:210)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3Search  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.getStoreWithTextAdded(DocumentStoreImplTest.java:81)
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage3Search(DocumentStoreImplTest.java:312)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutTxtDocumentNoPreviousDocAtURI  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutTxtDocumentNoPreviousDocAtURI(DocumentStoreImplTest.java:431)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetTxtDoc  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetTxtDoc(DocumentStoreImplTest.java:482)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testSetDocLastUseTimeOnGet  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testSetDocLastUseTimeOnGet(DocumentStoreImplTest.java:250)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testSetDocLastUseTimeOnPut  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.stage4testSetDocLastUseTimeOnPut(DocumentStoreImplTest.java:262)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetTxtDocAsBinary  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetTxtDocAsBinary(DocumentStoreImplTest.java:490)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutDocumentWithNullArguments  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testPutDocumentWithNullArguments(DocumentStoreImplTest.java:438)
+
+edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetBinaryDocAsTxt  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problems: 
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+	HashTableImpl cannot be resolved to a type
+
+	at edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest.testGetBinaryDocAsTxt(DocumentStoreImplTest.java:506)
+
